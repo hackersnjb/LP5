@@ -80,6 +80,7 @@ node *insert(node *root, int data)
    	 }
 
     }
+   return root;
     
 }
 
